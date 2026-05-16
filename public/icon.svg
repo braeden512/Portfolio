@@ -1,0 +1,39 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  width="180"
+  height="180"
+  viewBox="0 0 180 180"
+  fill="none"
+>
+  <style>
+    @media (prefers-color-scheme: light) {
+      .bg {
+        fill: #0f172a;
+      }
+      .fg {
+        fill: #f8fafc;
+      }
+    }
+    @media (prefers-color-scheme: dark) {
+      .bg {
+        fill: #f8fafc;
+      }
+      .fg {
+        fill: #0f172a;
+      }
+    }
+  </style>
+  <rect class="bg" width="180" height="180" rx="36" />
+  <text
+    class="fg"
+    x="90"
+    y="114"
+    text-anchor="middle"
+    font-family="Inter, system-ui, -apple-system, sans-serif"
+    font-size="72"
+    font-weight="700"
+    letter-spacing="-3"
+  >
+    BT
+  </text>
+</svg>
