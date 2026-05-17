@@ -21,7 +21,7 @@ export function Footer() {
               href="/"
               className="text-xl font-serif text-foreground hover:text-primary transition-colors"
             >
-              Braeden<span className="text-primary">.dev</span>
+              BraedenT<span className="text-primary">.dev</span>
             </Link>
             <p className="text-sm text-muted-foreground mt-1">
               &copy; {new Date().getFullYear()} Braeden Treutel. All rights

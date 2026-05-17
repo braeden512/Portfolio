@@ -27,7 +27,7 @@ export function Navigation() {
             href="/"
             className="text-2xl font-serif text-foreground hover:text-primary transition-colors"
           >
-            Braeden<span className="text-primary">.dev</span>
+            BraedenT<span className="text-primary">.dev</span>
           </Link>
 
           {/* Desktop Navigation */}

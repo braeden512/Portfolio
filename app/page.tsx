@@ -358,7 +358,7 @@ export default function HomePage() {
                   </div>
                   <h3 className="font-medium text-foreground mb-1">Email</h3>
                   <a
-                    href="mailto:hello@braeden.dev"
+                    href="mailto:braeden4328@gmail.com"
                     className="text-sm text-muted-foreground hover:text-primary transition-colors"
                   >
                     braeden4328@gmail.com
